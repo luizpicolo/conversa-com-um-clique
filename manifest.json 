@@ -1,0 +1,15 @@
+{
+  "name": "Conversa com um Clique",
+  "short_name": "Um Clique",
+  "theme_color": "#41E675",
+  "background_color": "#41E675",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
