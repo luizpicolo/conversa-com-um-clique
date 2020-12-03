@@ -1,13 +1,13 @@
 {
   "short_name": "Conversa com um Clique",
   "name": "Conversa com um Clique",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",
     "sizes": "192x192"
   }],
   "start_url": "/conversa-com-um-clique/",
-  "background_color": "#fafafa",
-  "theme_color": "#fafafa"
+  "background_color": "#31BEA5",
+  "theme_color": "#31BEA5"
 }
