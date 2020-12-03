@@ -1,6 +1,7 @@
 {
   "short_name": "Conversa com um Clique",
   "name": "Conversa com um Clique",
+  "display": "standalone",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",
