@@ -8,6 +8,6 @@ $( "#target" ).submit(function( event ) {
     phone = phone.replace(/[^\d]/g, ''); 
     $('.link-wa').html('<a href="https://wa.me/55'+phone+'">https://wa.me/55'+phone+'</a>');
   } else {
-    alert("É necessário o número telefônico")
+    swal("Vixii, aconteceu um problema", "Você precisa adicionar um número");
   }
 });

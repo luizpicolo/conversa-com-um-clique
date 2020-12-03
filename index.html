@@ -24,26 +24,34 @@
 </head>
 
 <body>
-
-  <main>
-    <section>
-    <h1>Digite o número desejado</h1>
-      <form id="target">
-        <label for="phone"></label>
-        <input type="text" id="phone" inputmode="numeric" name="phone" placeholder="Número Telefone">
-        <input type="submit" value="Conversar">
-      </form>
-    </section>
-    <section class="display-none">
-      <h3>Clique no link abaixo</h2>
-      <div class="link-wa">
-        <a href="#"></a>
-      </div>
-    </section>
-  </main>
-
+  <div>
+    <header class="logo">
+      <img src="icon.png" alt="Converse com um clique">
+      <p>Converse com um Clique</p>
+    </header>
+    <main>
+      <section>
+        <h1>Digite o número desejado</h1>
+        <form id="target">
+          <label for="phone"></label>
+          <input type="text" id="phone" inputmode="numeric" name="phone" placeholder="Número Telefone">
+          <input type="submit" value="Conversar">
+        </form>
+      </section>
+      <section class="display-none">
+        <h3>Clique no link abaixo</h2>
+        <div class="link-wa">
+          <a href="#"></a>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>Criado com &hearts; por: <a href="http://luizpicolo.com.br">Luiz Picolo</a></p>
+    </footer>
+  </div>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>

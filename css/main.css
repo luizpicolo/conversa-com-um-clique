@@ -273,8 +273,8 @@ body {
   font-family: 'Roboto', sans-serif;
   display: flex;
   justify-content: center;
-  align-items: center;  
-  /* background-color: #7159C1; */
+  align-items: center; 
+  margin: -70px 0 0 0; 
   background-color: #31BEA5;
 }
 
@@ -291,13 +291,22 @@ h3 {
   margin: 15px 0 10px 0;
 }
 
+.logo {
+  text-align: center;
+  color: #f1f1f1;
+}
+
+.logo img {
+  width: 90px;
+}
+
 .centering {
   text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: #4B4B4B;
+  color: #f1f1f1;
   font-size: 15px;
 }
 
@@ -331,3 +340,16 @@ input[type='submit']{
   cursor: pointer;
 }
 
+.swal-button {
+  background-color: #41E675;
+  border: none;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #f1f1f1;
+  text-align: center;
+}
