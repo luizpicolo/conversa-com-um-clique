@@ -296,6 +296,10 @@ h3 {
   color: #f1f1f1;
 }
 
+main {
+  max-width: 300px;
+}
+
 .logo img {
   width: 90px;
 }
@@ -314,8 +318,12 @@ a {
   text-align: center;
 }
 
-.display-none, label {
+.display-none {
   display: none;
+}
+
+label {
+  color: #f1f1f1;
 }
 
 input[type='text']{
@@ -326,6 +334,14 @@ input[type='text']{
   border: 1px solid #f1f1f1;
   color: #4B4B4B;
   margin: 10px 0;
+}
+
+input[type='radio']{
+  margin-right: 5px;
+}
+
+#radio-2 {
+  margin-left: 5px;
 }
 
 input[type='submit']{
