@@ -1,10 +1,10 @@
 {
-  "name": " ",
+  "name": "ConverseComUmClique",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
-  "author": "",
+  "description": "Interface simplificada para acesso a função de conversa por meio de link",
+  "keywords": "Whatsapp",
+  "license": "MIT",
+  "author": "Luiz Picolo",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
@@ -14,7 +14,5 @@
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   },
-  "dependencies": {
-    "live-server": "^1.2.1"
-  }
+  "dependencies": {}
 }
