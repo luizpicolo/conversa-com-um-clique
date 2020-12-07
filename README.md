@@ -5,7 +5,7 @@
 
 [1]: https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/?lang=pt_br
 
-Assim, usando nosso interface simplificada, você apenas adicionará o número desejado e escolherá entre gerar o link ou abrir diretamente a conversa, de forma fácil, simples, e intuitiva. 
+Assim, usando nossa interface simplificada, você apenas adicionará o número desejado e escolherá entre gerar o link ou abrir diretamente a conversa, de forma fácil, simples, e intuitiva. 
 
 # Como usar
 
